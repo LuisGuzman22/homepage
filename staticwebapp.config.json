@@ -1,4 +1,5 @@
 {
-  "platformVersion": "2",
-  "nodeVersion": "20"
+  "platform": {
+    "nodeVersion": "20"
+  }
 }
